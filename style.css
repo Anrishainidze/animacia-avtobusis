@@ -145,7 +145,7 @@ body{
     height:60px;
     border-radius: 10%;
     border:2px solid black;
-    background-color: white;
+    background-color: rgb(129, 173, 240);
     position: absolute;
     right:70%;
     bottom:60%
@@ -155,7 +155,7 @@ body{
     height:60px;
     border-radius: 10%;
     border:2px solid black;
-    background-color: white;
+    background-color: rgb(129, 173, 240);
     position: absolute;
     bottom: 59.9%;
     right: 55%;    
@@ -207,7 +207,7 @@ body{
     height:70px;
     border-radius: 10%;
     border:2px solid black;
-    background-color: white;
+    background-color: rgb(129, 173, 240);
     bottom:38%;
 }
 
